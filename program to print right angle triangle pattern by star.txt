@@ -1,0 +1,5 @@
+x=int(input("enter row number="))
+  for i in range(o,x):
+    for j in range(o,i+1):
+       print("*",end=' ')
+print(" ")
